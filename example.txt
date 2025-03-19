@@ -1,0 +1,2 @@
+Hello, this is a test string!
+New line added.
