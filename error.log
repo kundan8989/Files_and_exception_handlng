@@ -1,0 +1,6 @@
+ERROR:root:Division by zero error occurred: division by zero
+ERROR:root:This is an error message
+CRITICAL:root:This is a critical error
+ERROR:root:This is an error message
+ERROR:root:File error: [Errno 2] No such file or directory: 'nonexistent.txt'
+ERROR:ipykernel.comm:No such comm target registered: jupyter.widget.control
